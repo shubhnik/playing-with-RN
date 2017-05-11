@@ -7,6 +7,7 @@ Demo:
 ![Demo](/images/demo.gif)
 
 ##Props:
+
   ###1. ContentToIconRatio (type:number):
             It represents the flex ratio between your content and the icon. For example a **ContentToIconRatio={7}** will divide a row in 7:1 length, 7 for the text and 1 for the icon.
 
