@@ -14,7 +14,7 @@ import {
 
 import RBcomponent from './RadioButtonComponent'
 
-export default class FOSSLib extends Component {
+export default class RadioButtonExample extends Component {
   render() {
     return (
       <RBcomponent />
@@ -22,4 +22,4 @@ export default class FOSSLib extends Component {
   }
 }
 
-AppRegistry.registerComponent('osLib', () => FOSSLib);
+AppRegistry.registerComponent('osLib', () => RadioButtonExample);
